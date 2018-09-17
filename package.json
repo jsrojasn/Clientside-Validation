@@ -1,0 +1,7 @@
+{
+  "name": "development-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Juan Rojas",
+  "license": "MIT"
+}

@@ -1,2 +1,2 @@
-#Client-side Validation
+# Client-side Validation
 Client-side Validation of a form, it includes the handle of behaviour of all the inputs(select input match select options, activities that have the same hour are disable when one of them is checked and the user has to select only one payment method), the total cost sum depending of the inputs checked,  validation for the name, validation for the email using regular expression and validation for credit card (ccNum, zip code and cvv) when the form is submitted.
